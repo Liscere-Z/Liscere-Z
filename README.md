@@ -5,7 +5,6 @@
 Actualmente me encuentro aprendiendo y construyendo proyectos enfocados en:
 
 - 🤖 Inteligencia Artificial
-- +
 - 🐧 Administración de servidores Linux
 - ☁️ DevOps y despliegue de aplicaciones
 
